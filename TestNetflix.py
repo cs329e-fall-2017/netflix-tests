@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# -------
+# ------
 # imports
 # -------
 from Netflix import netflix_eval
